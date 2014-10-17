@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypp:home|Door43 (ypp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypp|d43-ypp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypp/archive/master.zip|d43-ypp.zip]]
+
+**Recent Changes**
+{{changes>ns = ypp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypp|Ethnologue data]]
+
